@@ -1,0 +1,15 @@
+.root
+{
+    -fx-background-color: linear-gradient(from 400px 400px to 800px 800px, #303f9f,#5c6bc0);
+    -fx-font-size: 14pt;
+}
+
+.label
+{
+    -fx-text-fill: #ffffff;
+}
+
+#header
+{
+    -fx-font-size: 30pt;
+}
